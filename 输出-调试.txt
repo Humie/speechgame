@@ -1,0 +1,276 @@
+﻿“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\VlcPlayerCsdn.exe”。已加载符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\user32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\win32u.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32full.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp_win.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbase.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\advapi32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\sechost.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\sspicli.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptbase.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcryptprimitives.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ole32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\combase.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\oleaut32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.829_none_42f3dc1e44dde2db\comctl32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\mfc140ud.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.17134.829_none_73decf039f705ca9\GdiPlus.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\shlwapi.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\msvcp140d.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\libvlc.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\imm32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ucrtbased.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\uxtheme.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\libvlccore.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\shell32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\cfgmgr32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\SHCore.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\windows.storage.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\profapi.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\powrprof.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\fltLib.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ws2_32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmm.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmmbase.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmmbase.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmmbase.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\winmmbase.dll”
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\winmmbase.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ucrtbased.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\msctf.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\access\libdshow_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\access\libdshow_plugin.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\access\libdshow_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\audio_output\libdirectsound_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\audio_output\libdirectsound_plugin.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\audio_output\libdirectsound_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\audio_output\libwaveout_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_output\libdirectdraw_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\access\liblibbluray_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\access\libaccess_bd_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\clbcatq.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\access\libdvdnav_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\access\libaccess_vdr_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\access\libaccess_vdr_plugin.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\access\libaccess_vdr_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\access\libfilesystem_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\Speech\Common\sapi.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\wintrust.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\msacm32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\msdmo.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\msasn1.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\crypt32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\stream_filter\libsmooth_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\stream_filter\libhttplive_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\stream_filter\libdash_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\access\libzip_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\access\libstream_filter_rar_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\demux\libmp4_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libpng_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libcdg_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libschroedinger_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libschroedinger_plugin.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libschroedinger_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libdts_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libtheora_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libfaad_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libflac_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libg711_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libaes3_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\liblibass_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\liblibass_plugin.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\liblibass_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libspeex_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\liblpcm_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\dwmapi.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libvorbis_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\wtsapi32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libmpeg_audio_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\winsta.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libaraw_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libopus_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\liba52_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libspudec_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libavcodec_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libavcodec_plugin.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\codec\libavcodec_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\Speech\Engines\SR\spsreng.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\meta_engine\libtaglib_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\meta_engine\libtaglib_plugin.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\meta_engine\libtaglib_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\lua\liblua_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntmarta.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\dsound.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\MMDevAPI.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\propsys.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\devobj.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\Speech\Engines\SR\srloc.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\Speech\Engines\SR\srloc.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\Speech\Engines\SR\srloc.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\text_renderer\libfreetype_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\AudioSes.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\WinTypes.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\avrt.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\sse2\libi420_yuy2_sse2_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\sse2\libi420_yuy2_sse2_plugin.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\sse2\libi420_yuy2_sse2_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\mmx\libi420_yuy2_mmx_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_filter\libswscale_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\sse2\libi420_rgb_sse2_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\sse2\libi422_yuy2_sse2_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\mmx\libi422_yuy2_mmx_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\mmx\libi420_rgb_mmx_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_chroma\libyuy2_i422_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_chroma\libgrey_yuv_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_chroma\libi420_rgb_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_chroma\libi420_yuy2_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_chroma\libyuy2_i420_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_chroma\libyuy2_i420_plugin.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_chroma\libyuy2_i420_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_chroma\libi422_yuy2_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_chroma\libi422_i420_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_filter\libscale_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_filter\libyuvp_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\MFWMAAEC.DLL”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\MFWMAAEC.DLL”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\MFWMAAEC.DLL”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\mfperfhelper.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_output\libdirect3d_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\d3d9.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\d3d9.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\d3d9.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\urlmon.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\iertutil.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_base.inf_amd64_ef1c2d8dbffd2867\igdumdim32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\iigd_base.inf_amd64_ef1c2d8dbffd2867\igdumdim32.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_base.inf_amd64_ef1c2d8dbffd2867\igdumdim32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_base.inf_amd64_ef1c2d8dbffd2867\igd9dxva32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\iigd_base.inf_amd64_ef1c2d8dbffd2867\igd9dxva32.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_base.inf_amd64_ef1c2d8dbffd2867\igd9dxva32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\audio_mixer\libfloat_mixer_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\audio_filter\libscaletempo_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\audio_filter\libscaletempo_plugin.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\audio_filter\libscaletempo_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\msxml3.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcrypt.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\audio_filter\libsamplerate_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nvqui.inf_amd64_78e5af03979c566f\nvdlist.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\nvqui.inf_amd64_78e5af03979c566f\nvdlist.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nvqui.inf_amd64_78e5af03979c566f\nvdlist.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\version.dll”
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\nvqui.inf_amd64_78e5af03979c566f\nvdlist.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\mlang.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\iigd_base.inf_amd64_ef1c2d8dbffd2867\igdumdim32.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nvqui.inf_amd64_78e5af03979c566f\nvldumd.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\imagehlp.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptsp.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\rsaenh.dll”。无法查找或打开 PDB 文件。
+0x74DB2C92 (KernelBase.dll)处(位于 VlcPlayerCsdn.exe 中)引发的异常: 0x000006BA: RPC 服务器不可用。。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nvqui.inf_amd64_78e5af03979c566f\nvd3dum.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\nvqui.inf_amd64_78e5af03979c566f\nvldumd.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\plugins\video_output\libdrawable_plugin.dll”。模块已生成，不包含符号。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\version.dll”
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\nvqui.inf_amd64_78e5af03979c566f\nvd3dum.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\WindowsCodecs.dll”。无法查找或打开 PDB 文件。
+线程 0x462c 已退出，返回值为 0 (0x0)。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\Windows.UI.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\Windows.UI.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\Windows.UI.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\TextInputFramework.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\InputHost.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreMessaging.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreUIComponents.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreMessaging.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\CoreMessaging.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreUIComponents.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\CoreUIComponents.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nvqui.inf_amd64_78e5af03979c566f\nvldumd.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nvqui.inf_amd64_78e5af03979c566f\nvd3dum.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ResourcePolicyClient.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ResourcePolicyClient.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ResourcePolicyClient.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ResourcePolicyClient.dll”
+线程 0x4604 已退出，返回值为 0 (0x0)。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\nvspcap.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\nvspcap.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\nvspcap.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\gpapi.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptnet.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\cryptnet.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptnet.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Program Files\NVIDIA Corporation\Ansel\Tools\NvCameraWhitelisting32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Program Files\NVIDIA Corporation\Ansel\Tools\NvCameraWhitelisting32.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Program Files\NVIDIA Corporation\Ansel\Tools\NvCameraWhitelisting32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Program Files\NVIDIA Corporation\Ansel\Tools\NvCameraWhitelisting32.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_base.inf_amd64_ef1c2d8dbffd2867\igdumdim32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\iigd_base.inf_amd64_ef1c2d8dbffd2867\igdumdim32.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_base.inf_amd64_ef1c2d8dbffd2867\igdumdim32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_base.inf_amd64_ef1c2d8dbffd2867\igc32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\iigd_base.inf_amd64_ef1c2d8dbffd2867\igc32.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_base.inf_amd64_ef1c2d8dbffd2867\igc32.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ExplorerFrame.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ExplorerFrame.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ExplorerFrame.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ExplorerFrame.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ExplorerFrame.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ExplorerFrame.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ExplorerFrame.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ExplorerFrame.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ExplorerFrame.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ExplorerFrame.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ExplorerFrame.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ExplorerFrame.dll”
+main vout display error: Failed to set on top
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ExplorerFrame.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ExplorerFrame.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ExplorerFrame.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ExplorerFrame.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ExplorerFrame.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ExplorerFrame.dll”
+“VlcPlayerCsdn.exe”(Win32): 已加载“C:\Windows\SysWOW64\ExplorerFrame.dll”。无法查找或打开 PDB 文件。
+“VlcPlayerCsdn.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ExplorerFrame.dll”
+线程 0x12e8 已退出，返回值为 0 (0x0)。
+线程 0x2818 已退出，返回值为 0 (0x0)。
+线程 0x256c 已退出，返回值为 0 (0x0)。
+线程 0x41bc 已退出，返回值为 0 (0x0)。
+线程 0x42c4 已退出，返回值为 0 (0x0)。
+线程 0x14cc 已退出，返回值为 0 (0x0)。
+线程 0x4bdc 已退出，返回值为 0 (0x0)。
+线程 0x417c 已退出，返回值为 0 (0x0)。
+线程 0x4a08 已退出，返回值为 0 (0x0)。
+线程 0x1dac 已退出，返回值为 0 (0x0)。
+线程 0x1a3c 已退出，返回值为 0 (0x0)。
+线程 0x3dd0 已退出，返回值为 0 (0x0)。
+线程 0x231c 已退出，返回值为 0 (0x0)。
+线程 0x45b4 已退出，返回值为 0 (0x0)。
+线程 0x28c8 已退出，返回值为 0 (0x0)。
+线程 0x1900 已退出，返回值为 0 (0x0)。
+线程 0x760 已退出，返回值为 0 (0x0)。
+线程 0x4378 已退出，返回值为 0 (0x0)。
+线程 0x117c 已退出，返回值为 0 (0x0)。
+线程 0x45b0 已退出，返回值为 0 (0x0)。
+线程 0x24b4 已退出，返回值为 0 (0x0)。
+线程 0xb24 已退出，返回值为 0 (0x0)。
+线程 0x1a80 已退出，返回值为 0 (0x0)。
+线程 0x1370 已退出，返回值为 0 (0x0)。
+线程 0x434 已退出，返回值为 0 (0x0)。
+线程 0x37c 已退出，返回值为 0 (0x0)。
+线程 0x22f8 已退出，返回值为 0 (0x0)。
+线程 0x2320 已退出，返回值为 0 (0x0)。
+程序“[10704] VlcPlayerCsdn.exe”已退出，返回值为 0 (0x0)。

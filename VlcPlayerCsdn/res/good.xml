@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="GB2312"?>
+<GRAMMAR LANGID="804">
+	<DEFINE>
+		<ID NAME="VID_SubName1" VAL="4001"/>
+		<ID NAME="VID_SubName2" VAL="4002"/>
+		<ID NAME="VID_SubName3" VAL="4003"/>
+		<ID NAME="VID_SubName4" VAL="4004"/>
+		<ID NAME="VID_SubName5" VAL="4005"/>
+		<ID NAME="VID_SubName6" VAL="4006"/>
+		<ID NAME="VID_SubName7" VAL="4007"/>
+		<ID NAME="VID_SubName8" VAL="4008"/>
+		<ID NAME="VID_SubName9" VAL="4009"/>
+		<ID NAME="VID_SubName10" VAL="4010"/>
+		<ID NAME="VID_SubName11" VAL="4011"/>
+		<ID NAME="VID_SubName12" VAL="4012"/>
+		<ID NAME="VID_SubName13" VAL="4013"/>
+		<ID NAME="VID_SubName14" VAL="4014"/>
+		<ID NAME="VID_SubName15" VAL="4015"/>
+		<ID NAME="VID_SubName16" VAL="4016"/>
+		<ID NAME="VID_SubName17" VAL="4017"/>
+		<ID NAME="VID_SubName18" VAL="4018"/>
+		<ID NAME="VID_SubName19" VAL="4019"/>
+		<ID NAME="VID_SubName20" VAL="4020"/>
+		<ID NAME="VID_SubName21" VAL="4021"/>
+		<ID NAME="VID_SubName22" VAL="4022"/>
+		<ID NAME="VID_SubName23" VAL="4023"/>
+		<ID NAME="VID_SubName24" VAL="4024"/>
+		<ID NAME="VID_SubName25" VAL="4025"/>
+		<ID NAME="VID_SubName26" VAL="4026"/>
+		<ID NAME="VID_SubName27" VAL="4027"/>
+		<ID NAME="VID_SubName28" VAL="4028"/>
+		<ID NAME="VID_SubName29" VAL="4029"/>
+		<ID NAME="VID_SubName30" VAL="4030"/>
+		<ID NAME="VID_SubName31" VAL="4031"/>
+		<ID NAME="VID_SubName32" VAL="4032"/>
+		<ID NAME="VID_SubName33" VAL="4033"/>
+		<ID NAME="VID_SubName34" VAL="4034"/>
+		<ID NAME="VID_SubName35" VAL="4035"/>
+		<ID NAME="VID_SubName36" VAL="4036"/>
+		<ID NAME="VID_SubName37" VAL="4037"/>
+		<ID NAME="VID_SubName38" VAL="4038"/>
+		<ID NAME="VID_SubName39" VAL="4039"/>
+		<ID NAME="VID_SubName40" VAL="4040"/>
+		<ID NAME="VID_SubName41" VAL="4041"/>
+		<ID NAME="VID_SubNameRule" VAL="3001"/>
+		<ID NAME="VID_TopLevelRule" VAL="3000"/>
+	</DEFINE>
+	<RULE ID="VID_TopLevelRule" TOPLEVEL="ACTIVE">
+		<O>
+			<L>
+				<P></P>
+				<P></P>
+				<P></P>
+			</L>
+		</O>
+		<RULEREF REFID="VID_SubNameRule" />
+	</RULE>
+	<RULE ID="VID_SubNameRule" >
+		<L PROPID="VID_SubNameRule">
+			<P VAL="VID_SubName1">美</P>
+			<P VAL="VID_SubName2">漂亮</P>
+			<P VAL="VID_SubName3">真好</P>
+			<P VAL="VID_SubName4">可爱</P>
+			<P VAL="VID_SubName5">加油</P>
+			<P VAL="VID_SubName6">喜欢</P>
+			<P VAL="VID_SubName7">长大</P>
+			<P VAL="VID_SubName8">浇水</P>
+			<P VAL="VID_SubName9">开花</P>
+			<P VAL="VID_SubName10">好看</P>
+			<P VAL="VID_SubName11">有趣</P>
+			<P VAL="VID_SubName12">阳光</P>
+			<P VAL="VID_SubName13">温暖</P>
+			<P VAL="VID_SubName14">宝贝</P>
+			<P VAL="VID_SubName15">我爱你</P>
+			<P VAL="VID_SubName16">最棒</P>
+			<P VAL="VID_SubName17">开心</P>
+			<P VAL="VID_SubName18">一定行</P>
+			<P VAL="VID_SubName19">优秀</P>
+			<P VAL="VID_SubName20">挺好</P>
+			<P VAL="VID_SubName21">没意思</P>
+			<P VAL="VID_SubName22">难过</P>
+			<P VAL="VID_SubName23">不漂亮</P>
+			<P VAL="VID_SubName24">不可爱</P>
+			<P VAL="VID_SubName25">丑</P>
+			<P VAL="VID_SubName26">恶心</P>
+			<P VAL="VID_SubName27">烦</P>
+			<P VAL="VID_SubName28">废物</P>
+			<P VAL="VID_SubName29">不喜欢</P>
+			<P VAL="VID_SubName30">无聊</P>
+			<P VAL="VID_SubName31">丢脸</P>
+			<P VAL="VID_SubName32">垃圾</P>
+			<P VAL="VID_SubName33">坏</P>
+			<P VAL="VID_SubName34">不要脸</P>
+			<P VAL="VID_SubName35">讨厌</P>
+			<P VAL="VID_SubName36">尴尬</P>
+			<P VAL="VID_SubName37">傻逼</P>
+			<P VAL="VID_SubName38">死</P>
+			<P VAL="VID_SubName39">枯</P>
+			<P VAL="VID_SubName40">不好</P>
+			<P VAL="VID_SubName41">开始</P>
+		</L>
+	</RULE>
+</GRAMMAR>

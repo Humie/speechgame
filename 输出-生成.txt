@@ -1,0 +1,8 @@
+﻿1>------ 已启动全部重新生成: 项目: VlcPlayerCsdn, 配置: Debug Win32 ------
+1>stdafx.cpp
+1>AVPlayer.cpp
+1>VlcPlayerCsdn.cpp
+1>VlcPlayerCsdnDlg.cpp
+1>正在生成代码...
+1>VlcPlayerCsdn.vcxproj -> C:\Users\Riysl\Desktop\VlcPlayerCsdn\Debug\VlcPlayerCsdn.exe
+========== 全部重新生成: 成功 1 个，失败 0 个，跳过 0 个 ==========
